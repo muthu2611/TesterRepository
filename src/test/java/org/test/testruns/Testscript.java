@@ -13,7 +13,7 @@ import org.utility.Baseclass;
 
 public class Testscript extends Baseclass {
 	//WebDriver driver;
-	loginapp login;
+	//loginapp login;
 	
 
 	@Test
